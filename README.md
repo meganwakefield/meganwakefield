@@ -1,7 +1,6 @@
 <div id="header" align="center">
-     <img src="https://github.com/meganwakefield/meganwakefield/assets/156637625/7a42cc3c-9fb0-4791-862d-a223254b5bfc" width="200" height="200">
+     <img src="https://github.com/meganwakefield/meganwakefield/assets/156637625/4bc52557-7a18-47a7-9981-41a8ca820fda" width="200" height="200">
 </div> 
-
 
 
 
@@ -13,6 +12,7 @@
 
 <!DOCTYPE html>
 <html>
+
 <body style="background-color: powderblue;">
   
 <h3>Hi, I'm Megan.<h3>

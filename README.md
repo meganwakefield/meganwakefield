@@ -1,10 +1,13 @@
 <div id="header" align="center">
-  <img src="https://github.com/meganwakefield/meganwakefield/assets/156637625/b5c91df7-c118-4b6b-b080-2716e6373898", width="100"/>
+     <img src="https://github.com/meganwakefield/meganwakefield/assets/156637625/7a42cc3c-9fb0-4791-862d-a223254b5bfc" width="200" height="200">
 </div> 
+
+
+
 
 <div style="icon" align="center">
   <a href="https://www.linkedin.com/in/megan-wakefield-973807205" target="_blank">
-    <img src="https://github.com/meganwakefield/meganwakefield/assets/156637625/10a9edf6-e62a-44e0-a297-85665af7377c" alt="LinkedIn" width="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40">
   </a>
 </div>
 
